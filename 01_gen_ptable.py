@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import numpy as np
 
 arr = np.chararray((7,18,15),itemsize=2) # Periodic table
